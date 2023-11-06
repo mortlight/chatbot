@@ -1,0 +1,18 @@
+server:
+  port: 8090
+
+# ??????
+chatbot-api:
+  launchList: group01,group02
+  group01:
+    groupName: ChatGPT AI ????
+    groupId: 28885518425541
+    cookie:
+    openAiKey:
+    cronExpression: 0/30 * * * * ? # ???????
+  group02:
+    groupName: ai
+    groupId: 28885518425541
+    cookie:
+    openAiKey:
+    cronExpression: 0/30 * * * * ? # ???????????cron.qqe2.com
